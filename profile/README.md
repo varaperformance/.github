@@ -13,11 +13,23 @@
 
 ## Why we built this
 
-Every fitness app out there is the same. Open it up and you're hit with a feed full of mirror selfies, transformation photos that are mostly lighting tricks, and "fitness influencers" selling you protein powder with affiliate codes.
+Every social media app out there is the same. Open it up and you're hit with a feed full of mirror selfies, transformation photos that are mostly lighting tricks, and "fitness influencers" selling you protein powder with affiliate codes.
 
 The actual training? Buried. Your progress data? Sold to advertisers. The algorithm? Designed to keep you scrolling, not lifting.
 
+And every fitness app? Paywalled to hell. Want to scan a barcode to log your food? That'll be $9.99/month. Want to see your macros? Premium feature. Track more than 3 workouts per week? Time to upgrade.
+
 We're competitive athletes. We got tired of it. So we built what we actually wanted to use.
+
+**Vara Performance won't paywall the features you need to reach your goals:**
+
+- ✓ Barcode scanning for food logging  
+- ✓ Macro tracking and management  
+- ✓ Unlimited workout logging  
+- ✓ Progress analytics and charts  
+- ✓ Exercise library with videos  
+- ✓ Custom program builder  
+- ✓ Data export (your data is yours)
 
 Vara Performance tracks your workouts, shows you real progress over time, and connects you with people who actually train—not people who want followers. No follower counts. No likes on photos. No sponsored content in your feed.
 
