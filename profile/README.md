@@ -2,6 +2,8 @@
 
 <img src="assets/home.png" alt="Vara Performance" width="800"/>
 
+<sub>📍 Landing page — Clean, focused, no bullshit</sub>
+
 # Vara Performance
 
 ### A fitness app that gives a shit about your training.
@@ -74,10 +76,14 @@ Vara Performance tracks your workouts, shows you real progress over time, and co
 
 <img src="assets/feed.png" alt="Vara Performance Feed" width="800"/>
 
+<sub>📱 The Feed — Real workouts from real people. PRs get priority, not selfies.</sub>
+
 <br />
 <br />
 
 <img src="assets/exercise.png" alt="Vara Performance Exercise Library" width="800"/>
+
+<sub>🏋️ Exercise Library — Video guides for every movement. Filter by muscle, equipment, or difficulty.</sub>
 
 </div>
 
