@@ -4,6 +4,8 @@
 
 **A fitness app that gives a shit about your training.**
 
+<img src="assets/home.png" alt="Vara Performance Home" width="700"/>
+
 [![Website](https://img.shields.io/badge/varaperformance.com-000?style=for-the-badge)](https://varaperformance.com)
 [![Instagram](https://img.shields.io/badge/@varaperformance-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varaperformance)
 
@@ -38,6 +40,12 @@ Just training.
 <div align="center">
 
 <img src="assets/feed.png" alt="Vara Performance Feed" width="700"/>
+
+</div>
+
+<div align="center">
+
+<img src="assets/exercise.png" alt="Vara Performance Exercise Library" width="700"/>
 
 </div>
 
