@@ -1,218 +1,116 @@
 <div align="center">
 
-<img src="assets/home.png" alt="Vara Performance" width="800"/>
+<picture>
+  <img src="assets/home.png" alt="Vara Performance" width="820" />
+</picture>
 
-<sub>📍 Landing page — Clean, focused, no bullshit</sub>
+<br />
 
 # Vara Performance
 
-### A fitness app that gives a shit about your training.
+**Train harder. See proof. No paywalls.**
 
-<br />
-
-[![Website](https://img.shields.io/badge/varaperformance.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varaperformance.com)
+[![Website](https://img.shields.io/badge/varaperformance.com-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://varaperformance.com)
 [![Instagram](https://img.shields.io/badge/@varaperformance-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varaperformance)
+[![50K+ Athletes](https://img.shields.io/badge/50K+_Athletes-0f172a?style=for-the-badge&logo=users&logoColor=white)](https://varaperformance.com)
 
-<br />
-
-**Track workouts** · **See real progress** · **Find gym partners** · **Own your data**
+`Barcode scan macros` · `Unlimited workouts` · `Real progress data` · `No ads, ever`
 
 </div>
 
-<br />
-
 ---
 
-<br />
+## Why athletes switch to Vara
 
-## 💡 Why we built this
-
-Every social media app out there is the same. Open it up and you're hit with a feed full of mirror selfies, transformation photos that are mostly lighting tricks, and "fitness influencers" selling you protein powder with affiliate codes.
-
-The actual training? Buried. Your progress data? Sold to advertisers. The algorithm? Designed to keep you scrolling, not lifting.
-
-And every fitness app? Paywalled to hell. Want to scan a barcode to log your food? That'll be $9.99/month. Want to see your macros? Premium feature. Track more than 3 workouts per week? Time to upgrade.
-
-We're competitive athletes. We got tired of it. So we built what we actually wanted to use.
-
-<br />
-
-### ✅ Free features that others charge for
-
-<table>
-<tr>
-<td>
-
-```
-✓ Barcode scanning for food logging
-✓ Macro tracking and management
-✓ Unlimited workout logging
-✓ Progress analytics and charts
-```
-
-</td>
-<td>
-
-```
-✓ Exercise library with videos
-✓ Custom program builder
-✓ Data export (your data is yours)
-✓ No ads, ever
-```
-
-</td>
-</tr>
-</table>
-
-<br />
-
-Vara Performance tracks your workouts, shows you real progress over time, and connects you with people who actually train—not people who want followers. No follower counts. No likes on photos. No sponsored content in your feed.
-
-**Just training.**
+- **No paywalls for the essentials** — Macros, barcode scan, unlimited workout logging, progress charts: free.
+- **Data that actually helps you train** — Strength curves, volume trends, estimated 1RMs, balance by muscle group.
+- **Partners, not followers** — Find people who lift where you lift. Spot each other, share PRs, stay accountable.
+- **You own your data** — Export any time (CSV/JSON). Delete your account = data gone. No ads. No selling.
 
 <br />
 
 <div align="center">
 
-<img src="assets/feed.png" alt="Vara Performance Feed" width="800"/>
+<picture>
+  <img src="assets/macro_calculator.png" alt="Vara Performance Macro Calculator" width="820" />
+</picture>
 
-<sub>📱 The Feed — Real workouts from real people. PRs get priority, not selfies.</sub>
-
-<br />
-<br />
-
-<img src="assets/exercise.png" alt="Vara Performance Exercise Library" width="800"/>
-
-<sub>🏋️ Exercise Library — Video guides for every movement. Filter by muscle, equipment, or difficulty.</sub>
+<sub>🍎 Macro Calculator — Set targets, scan barcodes, track everything. Free forever.</sub>
 
 </div>
 
-<br />
-
 ---
 
-<br />
+## What you get on day one
 
-## ⚡ How it works
-
-<table>
-<tr>
-<td width="50%">
-
-### 📝 Log your training
-
-Track sets, reps, weight, RPE—whatever matters for your program. We support everything from powerlifting to CrossFit to bodybuilding to general fitness. Import from other apps if you're switching over. Your history comes with you.
-
-</td>
-<td width="50%">
-
-### 📊 See actual progress
-
-Not just "you worked out 4 times this week, great job!" We show you strength curves, volume trends, estimated 1RMs, muscle group balance, and recovery patterns. The kind of data that actually helps you train better.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Own your data
-
-Your workout data belongs to you. We don't sell it. We don't use it to train models without asking. Export everything—JSON, CSV, whatever format you need—anytime. If you delete your account, your data is actually deleted.
-
-</td>
-<td width="50%">
-
-### 🤝 Find gym partners
-
-Not followers. Partners. People who train at your gym, around your schedule. Sync up for sessions, spot each other, run programs together. Mutual accountability with people you actually see in person.
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-<br />
-
-## 📱 The feed is different
-
-Most fitness apps reward engagement. Post a shirtless photo, get likes, feel good, post more photos. The actual training becomes secondary to the content creation.
-
-**We flipped it.**
-
-Our feed prioritizes posts with logged workout data. Hit a PR and share it? That gets visibility. Post a photo with no training attached? It shows up, but it's not getting boosted. We literally de-prioritize content that's just photos without workout data.
-
-The result: your feed is full of people actually training, hitting PRs, running programs, making progress. Not people posing.
-
-<br />
-
-<div align="center">
-
-| ❌ What we don't do | ✅ What we do instead |
+| Feature | Outcome |
 |:--|:--|
-| Follower counts | Consistency streaks |
-| Likes on photos | High-fives on logged workouts |
-| Sponsored posts | Nothing. No ads. |
-| Selling your data | Letting you export and delete it |
-| Algorithmic addiction loops | Chronological feed option |
-
-</div>
-
-<br />
+| Barcode scanning + macro calculator | Know exactly what you eat without spreadsheets or subscriptions. |
+| Unlimited workout logging | Track sets, reps, weight, RPE for every program you run. |
+| Progress analytics | See strength curves, volume trends, estimated 1RMs, recovery patterns. |
+| Exercise library with video | Pull the right movement fast; filter by muscle, equipment, difficulty. |
+| Custom program builder | Build or tweak cycles and keep history intact. |
+| Full data export | CSV/JSON anytime. Your data, not ours. |
+| Ads | None. Ever. |
 
 ---
 
-<br />
-
-## 🏆 Coaching that's actually legit
-
-We built a coaching marketplace into the platform. But here's the thing—**every coach on Vara Performance is verified.**
-
-That means real credentials: **NSCA-CSCS** · **ACSM** · **NASM** · **USAW** — Actual certifications from actual accredited organizations. We check them before anyone can take clients.
-
-No "self-taught fitness entrepreneurs." No influencers who got big on social media and decided that means they can charge $200/month for cookie-cutter PDFs.
-
-> Coaches can see your training logs, your progress, your metrics. They write programs specifically for you, delivered right in the app. Check-ins, messaging, scheduling—all handled. We process payments so coaches don't have to chase invoices and you don't have to venmo strangers.
-
-<br />
-
----
-
-<br />
-
-## 🎯 Who this is for
-
-People who take their training seriously but are tired of the fitness industry's bullshit.
-
-You don't need to be elite. You don't need to compete. You just need to care about getting better and want tools that help you do that without all the noise.
-
-If you want an app that'll boost your engagement and help you build a following, this isn't it. Go use Instagram.
-
-**If you want an app that tracks your lifts, shows you real data, connects you with training partners, and stays out of your way—we built this for you.**
-
-<br />
-
----
-
-<br />
+## Product snapshots
 
 <div align="center">
 
-## 🚀 Join 50,000+ athletes
+<picture>
+  <img src="assets/feed.png" alt="Vara Performance Feed" width="820" />
+</picture>
+
+<sub>📱 Feed — PRs and logged training surface first. Selfies do not.</sub>
 
 <br />
+<br />
+
+<picture>
+  <img src="assets/exercise.png" alt="Vara Performance Exercise Library" width="820" />
+</picture>
+
+<sub>🏋️ Exercise Library — Video guides for every movement. Filter by muscle, equipment, difficulty.</sub>
+
+</div>
+
+---
+
+## How it keeps you accountable
+
+- **Session structure**: Log sets/reps/weight/RPE; import history from other apps so you never start over.
+- **Progress receipts**: Volume and intensity trends show whether your programming is working.
+- **Partner matching**: Train with people at your gym and schedule sessions; no follower-chasing.
+- **Chronological feed**: Posts with real workout data get priority; no algorithmic rabbit holes.
+
+---
+
+## Coaching without the BS
+
+Every coach is credential-verified: **NSCA-CSCS** · **ACSM** · **NASM** · **USAW**.
+
+> Coaches see your logs and metrics, deliver programs in-app, handle check-ins, messaging, scheduling, and payments. You focus on lifting; they focus on programming.
+
+No self-proclaimed gurus. No recycled PDFs.
+
+---
+
+## Who this is for
+
+| Built for | Not for |
+|:--|:--|
+| Lifters who want data, partners, and real programming | People chasing likes and follower counts |
+| Athletes who want verified coaches | Influencers selling swipe-up codes |
+| Anyone tired of paywalls on basics | Anyone who wants ads and algorithms deciding their feed |
+
+---
+
+<div align="center">
 
 [![Sign Up](https://img.shields.io/badge/Get_Started_Free-22c55e?style=for-the-badge&logo=rocket&logoColor=white)](https://varaperformance.com/register)
-
-<br />
-
-**Questions?** [hello@varaperformance.com](mailto:hello@varaperformance.com)
-
-<br />
-
----
+[![Email Us](https://img.shields.io/badge/hello@varaperformance.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@varaperformance.com)
 
 <sub>© 2026 Vara Performance · Built by athletes, for athletes</sub>
 
