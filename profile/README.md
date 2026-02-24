@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/@varaperformance-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varaperformance)
 [![50K+ Athletes](https://img.shields.io/badge/50K+_Athletes-0f172a?style=for-the-badge&logo=users&logoColor=white)](https://varaperformance.com)
 
-`Barcode scan macros` · `Unlimited workouts` · `Real progress data` · `No ads, ever`
+`Barcode scan macros` · `Unlimited workouts` · `Real progress data` · `Ad-free health tools`
 
 </div>
 
@@ -25,7 +25,7 @@
 - **No paywalls for the essentials** — Macros, barcode scan, unlimited workout logging, progress charts: free.
 - **Data that actually helps you train** — Strength curves, volume trends, estimated 1RMs, balance by muscle group.
 - **Partners, not followers** — Find people who lift where you lift. Spot each other, share PRs, stay accountable.
-- **You own your data** — Export any time (CSV/JSON). Delete your account = data gone. No ads. No selling.
+- **You own your data** — Export any time (CSV/JSON). Delete your account = data gone. Ad-free health tools. No selling.
 
 <br />
 
@@ -51,7 +51,7 @@
 | Exercise library with video | Pull the right movement fast; filter by muscle, equipment, difficulty. |
 | Custom program builder | Build or tweak cycles and keep history intact. |
 | Full data export | CSV/JSON anytime. Your data, not ours. |
-| Ads | None. Ever. |
+| Health tools | Always ad-free. |
 
 ---
 
@@ -103,7 +103,7 @@ No self-proclaimed gurus. No recycled PDFs.
 |:--|:--|
 | Lifters who want data, partners, and real programming | People chasing likes and follower counts |
 | Athletes who want verified coaches | Influencers selling swipe-up codes |
-| Anyone tired of paywalls on basics | Anyone who wants ads and algorithms deciding their feed |
+| Anyone tired of paywalls on basics | Anyone who wants algorithms deciding their feed |
 
 ---
 
