@@ -24,7 +24,7 @@
 
 - **No paywalls for the essentials** — Macros, barcode scan, unlimited workout logging, progress charts: free.
 - **Data that actually helps you train** — Strength curves, volume trends, estimated 1RMs, balance by muscle group.
-- **Partners, not followers** — Find people who lift where you lift. Spot each other, share PRs, stay accountable.
+- **Partners, not followers** — Gym partner counts replace follower counts. Find people who lift where you lift, share PRs, stay accountable.
 - **You own your data** — Export any time (CSV/JSON). Delete your account = data gone. Ad-free health tools. No selling.
 
 <br />
@@ -82,8 +82,8 @@
 
 - **Session structure**: Log sets/reps/weight/RPE; import history from other apps so you never start over.
 - **Progress receipts**: Volume and intensity trends show whether your programming is working.
-- **Partner matching**: Train with people at your gym and schedule sessions; no follower-chasing.
-- **Chronological feed**: Posts with real workout data get priority; no algorithmic rabbit holes.
+- **Partner matching**: Train with people at your gym and schedule sessions. Gym partners, not followers.
+- **Chronological feed by default**: Momentum algorithm available for surfacing PRs and logged workouts, but your feed starts chronological.
 
 ---
 
@@ -105,9 +105,9 @@ No hidden coach types. No recycled PDFs.
 
 | Built for | Not for |
 |:--|:--|
-| Lifters who want data, partners, and real programming | People chasing likes and follower counts |
+| Lifters who want data, partners, and real programming | People chasing likes over logged workouts |
 | Athletes who want transparent coach labels | Undisclosed promotions or follower-first coaching |
-| Anyone tired of paywalls on basics | Anyone who wants algorithms deciding their feed |
+| Anyone tired of paywalls on basics | Anyone who wants an algorithm they can't turn off |
 
 ---
 
