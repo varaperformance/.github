@@ -89,11 +89,15 @@
 
 ## Coaching without the BS
 
-Every coach is credential-verified: **NSCA-CSCS** · **ACSM** · **NASM** · **USAW**.
+Every coach profile is reviewed and clearly labeled.
+
+Certified coaches display verified credentials, including: **NSCA-CSCS** · **ACSM** · **NASM** · **USAW**.
+
+Influencer coaches are allowed and explicitly tagged so athletes can make informed choices.
 
 > Coaches see your logs and metrics, deliver programs in-app, handle check-ins, messaging, scheduling, and payments. You focus on lifting; they focus on programming.
 
-No self-proclaimed gurus. No recycled PDFs.
+No hidden coach types. No recycled PDFs.
 
 ---
 
@@ -102,7 +106,7 @@ No self-proclaimed gurus. No recycled PDFs.
 | Built for | Not for |
 |:--|:--|
 | Lifters who want data, partners, and real programming | People chasing likes and follower counts |
-| Athletes who want verified coaches | Influencers selling swipe-up codes |
+| Athletes who want transparent coach labels | Undisclosed promotions or follower-first coaching |
 | Anyone tired of paywalls on basics | Anyone who wants algorithms deciding their feed |
 
 ---
