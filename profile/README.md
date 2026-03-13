@@ -24,7 +24,7 @@
 
 - **No paywalls for the essentials** — Macros, barcode scan, unlimited workout logging, progress charts: free.
 - **Data that actually helps you train** — Strength curves, volume trends, estimated 1RMs, balance by muscle group.
-- **Partners, not followers** — Community connections replace follower counts. Find people who lift where you lift, share PRs, stay accountable.
+- **Partners, not followers** — Community connections replace follower counts. Find people who train where you train, share wins, stay accountable.
 - **You own your data** — Export any time (CSV/JSON). Delete your account = data gone. Ad-free health tools. No selling.
 
 <br />
@@ -95,7 +95,7 @@ Certified coaches display verified credentials, including: **NSCA-CSCS** · **AC
 
 Influencer coaches are allowed and explicitly tagged so individuals can make informed choices.
 
-> Coaches see your logs and metrics, deliver programs in-app, handle check-ins, messaging, scheduling, and payments. You focus on lifting; they focus on programming.
+> Coaches see your logs and metrics, deliver programs in-app, handle check-ins, messaging, scheduling, and payments. You focus on training; they focus on programming.
 
 No hidden coach types. No recycled PDFs.
 
@@ -105,7 +105,7 @@ No hidden coach types. No recycled PDFs.
 
 | Built for | Not for |
 |:--|:--|
-| Lifters who want data, partners, and real programming | People chasing likes over logged workouts |
+| Members who want data, partners, and real programming | People chasing likes over logged workouts |
 | Individuals who want transparent coach labels | Undisclosed promotions or follower-first coaching |
 | Anyone tired of paywalls on basics | Anyone who wants an algorithm they can't turn off |
 
@@ -116,6 +116,6 @@ No hidden coach types. No recycled PDFs.
 [![Sign Up](https://img.shields.io/badge/Get_Started_Free-22c55e?style=for-the-badge&logo=rocket&logoColor=white)](https://varaperformance.com/register)
 [![Email Us](https://img.shields.io/badge/hello@varaperformance.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@varaperformance.com)
 
-<sub>© 2026 Vara Performance · Built for members, by performers</sub>
+<sub>© 2026 Vara Performance · Built for members, powered by community</sub>
 
 </div>
