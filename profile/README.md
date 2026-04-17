@@ -46,7 +46,7 @@
 | Feature | Outcome |
 |:--|:--|
 | Barcode scanning + macro calculator | Know exactly what you eat without spreadsheets or subscriptions. USDA + Open Food Facts databases built in. |
-| Unlimited workout logging | Track sets, reps, weight, RPE for every program you run. Import from Strava automatically. |
+| Unlimited workout logging | Track sets, reps, weight, RPE for every program you run. Import from Strava, Apple Health, and Google Fit automatically. |
 | Performance dashboard | Macro rings, activity heatmap, muscle breakdown body map, weight charts, PR timeline, workout streaks — one screen. |
 | Meal planning + grocery lists | Build weekly meal plans from macro targets and saved recipes. Generate grocery lists from any plan or recipe. |
 | Exercise library with video | Filter by muscle, equipment, difficulty. Categories for strength, cardio, flexibility, plyometrics, bodyweight. |
@@ -88,7 +88,7 @@
 
 ## How it keeps you accountable
 
-- **Session structure**: Log sets/reps/weight/RPE. Import from Strava automatically so you never start over.
+- **Session structure**: Log sets/reps/weight/RPE. Import from Strava, Apple Health, or Google Fit automatically so you never start over.
 - **Progress receipts**: Volume and intensity trends, automated weekly reports, and a dashboard that surfaces what your programming is actually doing.
 - **Habit streaks**: Daily check-ins with current and longest streak counters. Calendar heatmap shows consistency at a glance.
 - **Challenges**: Join group challenges — 30-day squat challenge, team step competition, weight loss %. Leaderboards with privacy controls.
@@ -124,7 +124,7 @@ Full in-app store with product variants, bundles, discount codes, reviews, and i
 
 ## Mobile (iOS + Android)
 
-Native mobile experience via Capacitor with 17 integrated plugins — barcode scanning (ML Kit), biometric auth, camera, geolocation, haptic feedback, deep linking, pull-to-refresh, offline detection, and active-workout wake lock to keep your screen alive mid-set.
+Native mobile experience via Capacitor with 17 integrated plugins — Apple Health and Google Fit sync (steps, sleep, heart rate, workouts), barcode scanning (ML Kit), biometric auth, camera, geolocation, haptic feedback, deep linking, pull-to-refresh, offline detection, and active-workout wake lock to keep your screen alive mid-set.
 
 ---
 
