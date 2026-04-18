@@ -47,7 +47,7 @@
 |:--|:--|
 | Barcode scanning + macro calculator | Know exactly what you eat without spreadsheets or subscriptions. USDA + Open Food Facts databases built in. |
 | Unlimited workout logging | Track sets, reps, weight, RPE for every program you run. Import from Strava, Apple Health, and Google Fit automatically. |
-| Performance dashboard | Macro rings, activity heatmap, muscle breakdown body map, weight charts, PR timeline, workout streaks — one screen. |
+| Performance dashboard | Macro rings, activity heatmap, muscle breakdown body map, weight charts, PR timeline, workout streaks, step trends, heart rate zones — one screen. |
 | Meal planning + grocery lists | Build weekly meal plans from macro targets and saved recipes. Generate grocery lists from any plan or recipe. |
 | Exercise library with video | Filter by muscle, equipment, difficulty. Categories for strength, cardio, flexibility, plyometrics, bodyweight. |
 | Custom program builder | Build or tweak cycles. Coaches assign plans to clients. History stays intact. |
@@ -55,8 +55,9 @@
 | Body measurements + weight | Track neck, chest, waist, hips, thighs, calves. Weight, body fat %, muscle mass. All encrypted at rest. |
 | Habit & streak tracking | Daily check-ins, streak counters, calendar heatmap. Auto-links to stacks, climb, and injection schedules. |
 | Water tracking | Daily intake goals with multiple units (oz, ml, L, cups). Hydration trends on the dashboard. |
+| Step tracking | Manual logging with quick-add buttons, 7-day trend view, daily goal progress ring, streak counting. Syncs automatically from Apple Health and Google Fit on mobile. |
 | Supplement stacks + injections | Scheduled supplement protocols. Encrypted injection logging with dose, route, and site. |
-| Weekly progress reports | Automated recaps: workout stats, macro adherence, PRs, habit completion, measurement deltas. Email + in-app. |
+| Weekly progress reports | Automated recaps: workout stats, macro adherence, PRs, habit completion, measurement deltas, step averages, lifestyle adherence scores, supplement compliance. Email + in-app. |
 | Challenges + achievements | Group challenges (workout count, streaks, weight loss). Leaderboards. Milestone badges earned automatically. |
 | Encrypted notes | End-to-end encrypted personal notes for anything you need to track privately. |
 | Full data export | CSV/JSON anytime. Your data, not ours. |
@@ -86,14 +87,50 @@
 
 ---
 
-## How it keeps you accountable
+## Elevate — the social layer
+
+Elevate is Vara's built-in social platform. It's a training-first feed where posts are ranked by logged effort, not engagement bait. PRs, completed workouts, milestone badges, and progress updates surface before selfies.
+
+- **Momentum algorithm**: Posts earn visibility from training data — workout volume, streak length, PR frequency — not likes. Toggle it off for a pure chronological feed.
+- **Post types**: Text, photos, workout summaries, PRs, milestones, and achievements. Attach workout data directly from your log.
+- **Comments + reactions**: Threaded comments with real-time updates via WebSocket. React to celebrate wins.
+- **Reporting + moderation**: Flag posts or comments. Admin review queue with configurable actions.
+- **Studio**: Your Elevate control center — edit your profile, manage privacy settings, configure notification preferences, connect health integrations, and review sync status. All in one place.
+- **Partner connections**: Replace follower/following with mutual training partnerships. Find members at your gym, schedule sessions, stay accountable.
+
+---
+
+## Health data sync
+
+Vara connects to Apple Health (iOS) and Google Health Connect (Android) to automatically sync health data from your wearables and phone sensors.
+
+- **Steps**: Daily totals aggregated across all sources. Goal tracking with configurable daily targets.
+- **Sleep**: Session duration and timing synced nightly.
+- **Heart rate**: Resting, average, and max BPM samples imported throughout the day.
+- **Weight**: Imported from smart scales and encrypted on arrival (AES-256-GCM).
+- **Workouts**: Sessions imported with duration, type, and timing. Deduplicated against manual logs.
+- **Background sync**: Data syncs automatically on app open and resume — no manual trigger required.
+- **Sync status**: Per-source, per-data-type last-synced timestamps visible in Studio settings.
+
+---
+
+## Lifestyle insights
+
+Vara calculates a lifestyle adherence score each week based on workout frequency, nutrition logging, hydration consistency, and check-in targets. The score compares week-over-week so you can see whether your consistency is trending up or down.
+
+- **Adherence scoring**: Weighted formula — 40% workout frequency, 20% nutrition logging, 20% hydration, 20% check-ins.
+- **Goal configuration**: Set daily step targets, sleep hours, weekly check-in frequency, and adherence thresholds.
+- **Weekly comparison**: Current vs. previous week scores in every weekly report.
+- **Dashboard integration**: Step trend cards, heart rate zone cards, and goal progress rings on the main dashboard.
+
 
 - **Session structure**: Log sets/reps/weight/RPE. Import from Strava, Apple Health, or Google Fit automatically so you never start over.
 - **Progress receipts**: Volume and intensity trends, automated weekly reports, and a dashboard that surfaces what your programming is actually doing.
+- **Step goals**: Set a daily target, track with a progress ring, and see your 7-day trend and streak at a glance.
 - **Habit streaks**: Daily check-ins with current and longest streak counters. Calendar heatmap shows consistency at a glance.
 - **Challenges**: Join group challenges — 30-day squat challenge, team step competition, weight loss %. Leaderboards with privacy controls.
 - **Partner matching**: Train with people at your gym and schedule sessions. Gym partners, not followers.
-- **Chronological feed by default**: Momentum algorithm available for surfacing PRs and logged workouts, but your feed starts chronological.
+- **Chronological feed by default**: Momentum algorithm available for surfacing PRs and logged workouts in Elevate, but your feed starts chronological.
 
 ---
 
@@ -124,7 +161,7 @@ Full in-app store with product variants, bundles, discount codes, reviews, and i
 
 ## Mobile (iOS + Android)
 
-Native mobile experience via Capacitor with 17 integrated plugins — Apple Health and Google Fit sync (steps, sleep, heart rate, workouts), barcode scanning (ML Kit), biometric auth, camera, geolocation, haptic feedback, deep linking, pull-to-refresh, offline detection, and active-workout wake lock to keep your screen alive mid-set.
+Native mobile experience via Capacitor with 17 integrated plugins — Apple Health and Google Fit sync (steps, sleep, heart rate, weight, workouts), barcode scanning (ML Kit), biometric auth, camera, geolocation, haptic feedback, deep linking, pull-to-refresh, offline detection, background health sync on app resume, and active-workout wake lock to keep your screen alive mid-set.
 
 ---
 
