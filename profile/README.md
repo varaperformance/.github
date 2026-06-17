@@ -12,7 +12,7 @@
 
 [![Website](https://img.shields.io/badge/varaperformance.com-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://varaperformance.com)
 [![Instagram](https://img.shields.io/badge/@varaperformance-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varaperformance)
-[![50K+ Members](https://img.shields.io/badge/50K+_Members-0f172a?style=for-the-badge&logo=users&logoColor=white)](https://varaperformance.com)
+[![Alpha](https://img.shields.io/badge/Alpha_Release-0f172a?style=for-the-badge&logo=users&logoColor=white)](https://varaperformance.com)
 [![GitHub](https://img.shields.io/badge/Open_Source-AGPL_v3-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varaperformance/varaperformance)
 
 `Barcode scan macros` · `Unlimited workouts` · `Real progress data` · `Encrypted health tools`
