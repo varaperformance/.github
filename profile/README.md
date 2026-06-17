@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/varaperformance.com-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://varaperformance.com)
 [![Instagram](https://img.shields.io/badge/@varaperformance-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varaperformance)
 [![50K+ Members](https://img.shields.io/badge/50K+_Members-0f172a?style=for-the-badge&logo=users&logoColor=white)](https://varaperformance.com)
-[![GitHub](https://img.shields.io/badge/Open_Source-MIT-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varaperformance/varaperformance)
+[![GitHub](https://img.shields.io/badge/Open_Source-AGPL_v3-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varaperformance/varaperformance)
 
 `Barcode scan macros` · `Unlimited workouts` · `Real progress data` · `Encrypted health tools`
 
@@ -156,11 +156,11 @@ No hidden coach types. No recycled PDFs.
 
 ## Open Source & Self-Hostable
 
-Vara Performance is fully open source under the [MIT License](https://github.com/varaperformance/varaperformance/blob/main/LICENSE.md). The entire platform — backend API, web frontend, worker, and iOS app — is available on GitHub.
+Vara Performance is fully open source under the [GNU AGPL v3 License](https://github.com/varaperformance/varaperformance/blob/main/LICENSE.md). The entire platform — backend API, web frontend, worker, and iOS app — is available on GitHub.
 
 | | |
 |:--|:--|
-| **License** | MIT — use it, fork it, self-host it |
+| **License** | AGPL v3 — use it, fork it, self-host it (modifications must stay open source) |
 | **Stack** | NestJS · React · Prisma · PostgreSQL · Capacitor |
 | **Source** | [github.com/varaperformance/varaperformance](https://github.com/varaperformance/varaperformance) |
 | **Contributing** | Bug reports, feature requests, and PRs are welcome — see [CONTRIBUTING.md](https://github.com/varaperformance/varaperformance/blob/main/CONTRIBUTING.md) |
@@ -208,6 +208,6 @@ Native mobile experience via Capacitor with 17 integrated plugins — Apple Heal
 [![Source Code](https://img.shields.io/badge/View_Source-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varaperformance/varaperformance)
 [![Email Us](https://img.shields.io/badge/hello@varaperformance.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@varaperformance.com)
 
-<sub>© 2026 Vara Performance · Open source under the MIT License · Built for members, powered by community</sub>
+<sub>© 2026 Vara Performance · Open source under the GNU AGPL v3 License · Built for members, powered by community</sub>
 
 </div>
